@@ -41,6 +41,7 @@
   #services.displayManager.sddm.enable = true;
   #services.desktopManager.plasma6.enable = true;
   services.upower.enable = true;
+  services.fprintd.enable = true;
   services.displayManager.dms-greeter = {
      enable = true;
      compositor.name = "niri";
